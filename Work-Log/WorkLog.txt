@@ -1,0 +1,20 @@
+Work-Log
+
+- [17-11-2020] - created the project draft and organised the repository 
+- [17-11-2020] - [ Lab ] jot down the entities and attributes of the tables 
+- [20-11-2020] - cleaned Data and eliminated the redundancies 
+- [21-11-2020] - Added Requirement Analysis
+- [23-11-2020] - Assigned ER diagrams to the Team
+- [23-11-2020] - Edited Requirement Analysis (added cardinalities)
+- [24-11-2020] - Edited Cardinality between rocket and mission entities
+- [24-11-2020] - Added ER diagram document 
+- [24-11-2020] - Deleted Foreign Keys from the ER diagram
+- [24-11-2020] - Conceptual Schema ( payloads, rockets, launchpads ) 
+- [26-11-2020] - conceptual schema ( administrators, drone ships, missions) 
+- [29-11-2020] - added to repo and google sheet 
+- [30-11-2020] - added Admininstrator's entity in the ER diagram 
+- [1-12-2020] - cleaned data and committed to the repo
+- [2-12-2020] - Assigned Table creation Query work to the Team
+- [4-12-2020] - completed created all the 11 tables required and committed it to the git-repo
+
+

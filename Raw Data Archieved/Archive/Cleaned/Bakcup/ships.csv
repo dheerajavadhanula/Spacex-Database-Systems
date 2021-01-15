@@ -1,0 +1,24 @@
+,ship_id,name,type,active,roles,mass_kg,mass_lb,year_built,home_port
+0,5ea6ed2d080df4000697c901,American Champion,Tug,False,"['Support Ship', 'Barge Tug']",266712.0,588000.0,1976.0,Port of Los Angeles
+1,5ea6ed2d080df4000697c902,American Islander,Cargo,False,['Dragon Recovery'],,,,Port of Los Angeles
+2,5ea6ed2d080df4000697c903,American Spirit,Cargo,False,['Support Ship'],,,,Port of Los Angeles
+3,5ea6ed2d080df4000697c904,A Shortfall of Gravitas,Barge,False,['ASDS barge'],,,,Port Canaveral
+4,5ea6ed2e080df4000697c905,Betty R Gambarella,Tug,False,['ASDS Tug'],202302.0,446000.0,1974.0,Port of Los Angeles
+5,5ea6ed2e080df4000697c906,Elsbeth III,Tug,False,['ASDS Tug'],273063.0,602000.0,1999.0,Port Canaveral
+6,5ea6ed2e080df4000697c907,GO Ms Chief,High Speed Craft,True,['Fairing Recovery'],449964.0,992000.0,2014.0,Port Canaveral
+7,5ea6ed2e080df4000697c908,GO Ms Tree,High Speed Craft,True,['Fairing Recovery'],449964.0,992000.0,2015.0,Port Canaveral
+8,5ea6ed2e080df4000697c909,GO Navigator,Cargo,True,"['Support Ship', 'Fairing Recovery']",451778.0,996000.0,2009.0,Port Canaveral
+9,5ea6ed2e080df4000697c90a,GO Pursuit,Cargo,False,"['Support Ship', 'Fairing Recovery']",502999.0,1108925.0,2007.0,Port Canaveral
+10,5ea6ed2f080df4000697c90b,GO Quest,Cargo,True,['Support Ship'],,,2014.0,Port Canaveral
+11,5ea6ed2f080df4000697c90c,GO Searcher,Cargo,True,"['Support Ship', 'Fairing Recovery']",450870.0,994000.0,2010.0,Port Canaveral
+12,5ea6ed2f080df4000697c90d,HAWK,Tug,False,['ASDS Tug'],508023.0,1120000.0,1995.0,Port Canaveral
+13,5ea6ed2f080df4000697c90e,Hollywood,Tug,True,['ASDS Tug'],320236.0,706000.0,1985.0,Fort Lauderdale
+14,5ea6ed2f080df4000697c90f,Just Read The Instructions 1,Barge,False,['ASDS barge'],,,2014.0,Port Canaveral
+15,5ea6ed2f080df4000697c910,Just Read The Instructions 2,Barge,True,['ASDS barge'],,,2015.0,Port of Los Angeles
+16,5ea6ed2f080df4000697c911,Kelly C,Tug,False,['ASDS Tug'],,,,Port of Los Angeles
+17,5ea6ed30080df4000697c912,NRC Quest,Cargo,True,"['Support Ship', 'Dragon Recovery']",440892.0,972000.0,2002.0,Port of Los Angeles
+18,5ea6ed30080df4000697c913,Of Course I Still Love You,Barge,True,['ASDS barge'],,,2015.0,Port Canaveral
+19,5ea6ed30080df4000697c914,Pacific Freeedom,Tug,True,['ASDS Tug'],89811.0,198000.0,1976.0,Port of Los Angeles
+20,5ea6ed30080df4000697c915,Pacific Warrior,Tug,False,['ASDS Tug'],351080.0,774000.0,1974.0,Port of Los Angeles
+21,5ea6ed30080df4000697c916,RACHEL,Tug,False,['ASDS Tug'],312072.0,688000.0,1976.0,Port Canaveral
+22,5ee68c683c228f36bd5809b5,Finn Falgout,Tug,True,"['Support Ship', 'Barge Tug']",843682.0,1860000.0,1975.0,Port Canaveral

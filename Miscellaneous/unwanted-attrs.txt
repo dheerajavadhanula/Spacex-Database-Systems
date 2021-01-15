@@ -1,0 +1,12 @@
+Launches ( Missions ) 
+
+- Success -> launch_status
+
+X - failures 
+X - ships 
+X - capsules 
+X - payloads 
+X - cores
+X - fairings_reused 
+X - fairing_recovery_attempts
+X - fairings_recovered

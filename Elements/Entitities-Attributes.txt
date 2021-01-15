@@ -1,0 +1,22 @@
+Entity - Payloads
+
+Attributes - (payload_id, name, type, reused, manufacturers, mass_kg, mass_b, orbit, reference_system, regime)
+
+Entity - rockets
+
+Attributes - (rocket_id, name, type, active, country, company, mass_kg, stages, boosters, cost_per_launch)
+
+Entity  - Drone-Ship 
+
+Attributes - (ship_id, name, type, active, roles, mass_kg, mass_lb , home_port)
+
+Entity- Missions:
+
+Attributes- (launch_id, date, name, rocket_id, launchpad_id, launch_status, payload_id)
+
+Entity- launchpads:
+ 
+Attributes- (launchpad_id, name, full_name, status, locality, timezone, region, latitude, longitude)
+
+
+

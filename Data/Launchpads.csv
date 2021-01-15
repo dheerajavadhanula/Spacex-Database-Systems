@@ -1,0 +1,7 @@
+launchpad_id,name,full_name,status,locality,region,TimeZone,Latitude,Longitude
+5e9e4501f5090910d4566f83,"VAFB SLC 3W","Vandenberg Air Force Base Space Launch Complex 3W",retired,"Vandenberg Air Force Base",California,America/Los_Angeles,34.6441,-120.593
+5e9e4501f509094ba4566f84,"CCAFS SLC 40","Cape Canaveral Air Force Station Space Launch Complex 40",active,"Cape Canaveral",Florida,America/New_York,28.5619,-80.5774
+5e9e4502f5090927f8566f85,STLS,"SpaceX South Texas Launch Site","under construction","Boca Chica Village",Texas,America/Chicago,25.9973,-97.1561
+5e9e4502f509092b78566f87,"VAFB SLC 4E","Vandenberg Air Force Base Space Launch Complex 4E",active,"Vandenberg Air Force Base",California,America/Los_Angeles,34.6321,-120.611
+5e9e4502f509094188566f88,"KSC LC 39A","Kennedy Space Center Historic Launch Complex 39A",active,"Cape Canaveral",Florida,America/New_York,28.6081,-80.604
+5e9e4502f5090995de566f86,"Kwajalein Atoll","Kwajalein Atoll Omelek Island",retired,"Omelek Island","Marshall Islands",Pacific/Kwajalein,9.04772,167.743

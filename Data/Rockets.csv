@@ -1,0 +1,5 @@
+rocket_id,name,type,active,country,company,cost_per_launch
+5e9d0d95eda69955f709d1eb,"Falcon 1",rocket,False,"Republic of the Marshall Islands",SpaceX,6700000
+5e9d0d95eda69973a809d1ec,"Falcon 9",rocket,True,"United States",SpaceX,50000000
+5e9d0d95eda69974db09d1ed,"Falcon Heavy",rocket,True,"United States",SpaceX,90000000
+5e9d0d96eda699382d09d1ee,Starship,rocket,False,"United States",SpaceX,7000000

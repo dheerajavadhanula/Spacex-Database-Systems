@@ -1,0 +1,82 @@
+payload_id,name,type,reuse,manufacture,mass_kg,mass_lb,orbit,reference_system,regime
+5eb0e4b5b6c3bb0006eeb1e1,FalconSAT-2,Satellite,False,SSTL,20,43,LEO,geocentric,low-earth
+5eb0e4b7b6c3bb0006eeb1e5,RatSat,Satellite,False,SpaceX,165,363,LEO,geocentric,low-earth
+5eb0e4b7b6c3bb0006eeb1e6,RazakSAT,Satellite,False,Satrec,200,440,LEO,geocentric,low-earth
+5eb0e4bab6c3bb0006eeb1ea,"COTS Demo Flight 2","Dragon 1.0",False,SpaceX,525,1157,LEO,geocentric,low-earth
+5eb0e4bab6c3bb0006eeb1eb,CRS-1,"Dragon 1.0",False,SpaceX,400,881,ISS,geocentric,low-earth
+5eb0e4bab6c3bb0006eeb1ec,Orbcomm-OG2,"Dragon 1.0",False,"Not Disclosed",400,881,LEO,geocentric,low-earth
+5eb0e4bbb6c3bb0006eeb1ed,CRS-2,"Dragon 1.0",False,SpaceX,677,1492,ISS,geocentric,low-earth
+5eb0e4bbb6c3bb0006eeb1ee,CASSIOPE,Satellite,False,MDA,500,1100,PO,geocentric,low-earth
+5eb0e4bbb6c3bb0006eeb1ef,SES-8,Satellite,False,"Orbital ATK",3170,6990,GTO,geocentric,geostationary
+5eb0e4bbb6c3bb0006eeb1f0,"Thaicom 6",Satellite,False,"Orbital ATK",3325,7330,GTO,geocentric,geostationary
+5eb0e4bbb6c3bb0006eeb1f1,CRS-3,"Dragon 1.1",False,SpaceX,2296,5062,ISS,geocentric,low-earth
+5eb0e4bcb6c3bb0006eeb1f2,Orbcomm-OG2-M1,Satellite,False,Boeing,1316,2901,LEO,geocentric,low-earth
+5eb0e4bcb6c3bb0006eeb1f3,"AsiaSat 8",Satellite,False,SSL,4535,9998,GTO,geocentric,geostationary
+5eb0e4bcb6c3bb0006eeb1f4,"AsiaSat 6",Satellite,False,SSL,4428,9762,GTO,geocentric,geostationary
+5eb0e4bcb6c3bb0006eeb1f5,CRS-4,"Dragon 1.1",False,SpaceX,2216,4885,ISS,geocentric,low-earth
+5eb0e4bdb6c3bb0006eeb1f6,CRS-5,"Dragon 1.1",False,SpaceX,2395,5280,ISS,geocentric,low-earth
+5eb0e4bdb6c3bb0006eeb1f7,DSCOVR,Satellite,False,"Sierra Nevada",570,1260,ES-L1,heliocentric,L1-point
+5eb0e4bdb6c3bb0006eeb1f8,ABS-3A,Satellite,False,Boeing,1954,4307,GTO,geocentric,geostationary
+5eb0e4bdb6c3bb0006eeb1f9,"Eutelsat 115 West B",Satellite,False,Boeing,2205,4861,GTO,geocentric,geostationary
+5eb0e4bdb6c3bb0006eeb1fa,CRS-6,"Dragon 1.1",False,SpaceX,1898,4184,ISS,geocentric,low-earth
+5eb0e4beb6c3bb0006eeb1fb,"TürkmenÄlem 52°E / MonacoSAT",Satellite,False,"Thales Alenia Space",4707,10377,GTO,geocentric,geostationary
+5eb0e4beb6c3bb0006eeb1fc,CRS-7,"Dragon 1.1",False,SpaceX,2477,5460.9,ISS,geocentric,low-earth
+5eb0e4beb6c3bb0006eeb1fd,Orbcomm-OG2-M2,Satellite,False,Boeing,2034,4484,LEO,geocentric,low-earth
+5eb0e4beb6c3bb0006eeb1fe,Jason-3,Satellite,False,"Thales Alenia Space",553,1219,PO,geocentric,low-earth
+5eb0e4beb6c3bb0006eeb1ff,SES-9,Satellite,False,Boeing,5271,11621,GTO,geocentric,geostationary
+5eb0e4bfb6c3bb0006eeb200,CRS-8,"Dragon 1.1",False,SpaceX,3136,6914,ISS,geocentric,low-earth
+5eb0e4bfb6c3bb0006eeb201,JCSAT-2B,Satellite,False,SSL,4696,10353,GTO,geocentric,geostationary
+5eb0e4bfb6c3bb0006eeb203,ABS-2A,Satellite,False,Boeing,1800,3950,GTO,geocentric,geostationary
+5eb0e4bfb6c3bb0006eeb204,"Eutelsat 117 West B",Satellite,False,Boeing,1800,3950,GTO,geocentric,geostationary
+5eb0e4c0b6c3bb0006eeb205,CRS-9,"Dragon 1.1",False,SpaceX,2257,4976,ISS,geocentric,low-earth
+5eb0e4c1b6c3bb0006eeb206,JCSAT-16,Satellite,False,SSL,4600,10100,GTO,geocentric,geostationary
+5eb0e4c1b6c3bb0006eeb207,Amos-6,Satellite,False,"Israel Aerospace Industries",5500,12100,GTO,geocentric,geostationary
+5eb0e4c2b6c3bb0006eeb208,"Iridium NEXT 1",Satellite,False,"Thales Alenia Space",9600,21200,PO,geocentric,low-earth
+5eb0e4c3b6c3bb0006eeb209,CRS-10,"Dragon 1.1",False,SpaceX,2490,5490,ISS,geocentric,low-earth
+5eb0e4c3b6c3bb0006eeb20a,"EchoStar 23",Satellite,False,"Airbus Defence and Space",5600,12399,GTO,geocentric,geostationary
+5eb0e4c3b6c3bb0006eeb20b,SES-10,Satellite,False,"Airbus Defence and Space",5300,11700,GTO,geocentric,geostationary
+5eb0e4c3b6c3bb0006eeb20d,"Inmarsat-5 F4",Satellite,False,Boeing,6070,13380,GTO,geocentric,geostationary
+5eb0e4c4b6c3bb0006eeb20e,CRS-11,"Dragon 1.1",True,SpaceX,2708,5970,ISS,geocentric,low-earth
+5eb0e4c4b6c3bb0006eeb20f,BulgariaSat-1,Satellite,False,SSL,3669,8089,GTO,geocentric,geostationary
+5eb0e4c4b6c3bb0006eeb210,"Iridium NEXT 2",Satellite,False,"Thales Alenia Space",9600,21164,PO,geocentric,low-earth
+5eb0e4c4b6c3bb0006eeb211,"Intelsat 35e",Satellite,False,Boeing,6761,14905.5,GTO,geocentric,geosynchronous
+5eb0e4c4b6c3bb0006eeb212,CRS-12,"Dragon 1.1",False,SpaceX,2910,6415.5,ISS,geocentric,low-earth
+5eb0e4c4b6c3bb0006eeb213,FormoSat-5,Satellite,False,NSPO,475,1047,SSO,geocentric,sun-synchronous
+5eb0e4c5b6c3bb0006eeb214,"X-37B OTV-5",Satellite,False,"Boeing Defense",4990,11001,LEO,geocentric,low-earth
+5eb0e4c5b6c3bb0006eeb215,"Iridium NEXT 3",Satellite,False,"Thales Alenia Space",9600,21164.4,PO,geocentric,low-earth
+5eb0e4c5b6c3bb0006eeb216,"SES-11 / Echostar 105",Satellite,False,"Airbus Defence and Space",5200,11464,GTO,geocentric,geostationary
+5eb0e4c5b6c3bb0006eeb217,"KoreaSat 5A",Satellite,False,"Thales Alenia Space",3700,8157.1,GTO,geocentric,geostationary
+5eb0e4c5b6c3bb0006eeb218,CRS-13,"Dragon 1.1",True,SpaceX,2205,4861.2,ISS,geocentric,low-earth
+5eb0e4c6b6c3bb0006eeb219,"Iridium NEXT 4",Satellite,False,"Thales Alenia Space",9600,21164.4,PO,geocentric,low-earth
+5eb0e4c6b6c3bb0006eeb21b,GovSat-1,Satellite,False,"Orbital ATK",4230,9325.6,GTO,geocentric,geostationary
+5eb0e4c6b6c3bb0006eeb21d,Paz,Satellite,False,"Airbus Defence and Space",1350,2976.2,SSO,geocentric,sun-synchronous
+5eb0e4c6b6c3bb0006eeb21e,"Tintin A & B",Satellite,False,SpaceX,800,1763.7,SSO,geocentric,low-earth
+5eb0e4c7b6c3bb0006eeb21f,"Hispasat 30W-6",Satellite,False,SSL,6092,13430.6,GTO,geocentric,geostationary
+5eb0e4c7b6c3bb0006eeb220,"Iridium NEXT 5",Satellite,False,"Thales Alenia Space",9600,21164.4,PO,geocentric,low-earth
+5eb0e4c7b6c3bb0006eeb221,CRS-14,"Dragon 1.1",True,SpaceX,2760,6084.7,ISS,geocentric,low-earth
+5eb0e4c7b6c3bb0006eeb222,TESS,Satellite,False,"Orbital ATK",350,772,HEO,highly-elliptical,high-earth
+5eb0e4c7b6c3bb0006eeb223,Bangabandhu-1,Satellite,False,"Thales Alenia Space",3750,8270,GTO,geocentric,geostationary
+5eb0e4c7b6c3bb0006eeb224,"Iridium NEXT 6",Satellite,False,"Thales Alenia Space",4300,9479.9,PO,geocentric,low-earth
+5eb0e4c8b6c3bb0006eeb225,"GRACE-FO 1-2",Satellite,False,"Not Disclosed",1160,2557.4,PO,geocentric,sun-synchronous
+5eb0e4c8b6c3bb0006eeb226,SES-12,Satellite,False,"Airbus Defence and Space",5383.85,11869.4,GTO,geocentric,geostationary
+5eb0e4c8b6c3bb0006eeb227,CRS-15,"Dragon 1.1",True,SpaceX,2410,5313,ISS,geocentric,low-earth
+5eb0e4c8b6c3bb0006eeb228,"Telstar 19V",Satellite,False,SSL,7076,15600,GTO,geocentric,geostationary
+5eb0e4c9b6c3bb0006eeb229,"Iridium NEXT 7",Satellite,False,"Thales Alenia Space",9600,21164.4,PO,geocentric,low-earth
+5eb0e4c9b6c3bb0006eeb22a,Telkom-4,Satellite,False,SSL,5800,12786.8,GTO,geocentric,geostationary
+5eb0e4c9b6c3bb0006eeb22b,"Telstar 18V",Satellite,False,SSL,7060,15564.6,GTO,geocentric,geostationary
+5eb0e4c9b6c3bb0006eeb22c,"SAOCOM 1A",Satellite,False,INVAP,2800,6172.94,SSO,geocentric,sun-synchronous
+5eb0e4c9b6c3bb0006eeb22d,"Es’hail 2",Satellite,False,"Mitsubishi Electric",3000,6613.87,GTO,geocentric,geostationary
+5eb0e4c9b6c3bb0006eeb22e,SSO-A,Satellite,False,"Spaceflight Industries, Inc",4000,8818.49,SSO,geocentric,sun-synchronous
+5eb0e4cab6c3bb0006eeb22f,CRS-16,"Dragon 1.1",True,SpaceX,2573,5672.49,ISS,geocentric,low-earth
+5eb0e4cab6c3bb0006eeb230,"GPS III SV01",Satellite,False,"Lockheed Martin",4400,9700.34,MEO,geocentric,semi-synchronous
+5eb0e4cab6c3bb0006eeb231,"Iridium NEXT 8",Satellite,False,"Thales Alenia Space",9600,21164.4,PO,geocentric,low-earth
+5eb0e4cab6c3bb0006eeb232,"Nusantara Satu (PSN-6)",Satellite,False,SSL,5000,11023.1,GTO,geocentric,geostationary
+5eb0e4cab6c3bb0006eeb233,S5,Satellite,False,"Applied Defense Systems",60,132.28,GTO,geocentric,geostationary
+5eb0e4cab6c3bb0006eeb234,Beresheet,Lander,False,SSL,585,1289.7,GTO,geocentric,highly-elliptical
+5eb0e4cbb6c3bb0006eeb235,"CCtCap Demo Mission 1","Crew Dragon",False,SpaceX,12259,27026.5,ISS,geocentric,low-earth
+5eb0e4cbb6c3bb0006eeb236,"ArabSat 6A",Satellite,False,"Lockheed Martin",6000,13227.7,GTO,geocentric,geostationary
+5eb0e4cbb6c3bb0006eeb237,CRS-17,"Dragon 1.1",True,SpaceX,2482,5472,ISS,geocentric,low-earth
+5eb0e4cbb6c3bb0006eeb238,"Starlink v0.9",Satellite,False,SpaceX,13620,30027,VLEO,geocentric,very-low-earth
+5eb0e4ccb6c3bb0006eeb239,"RADARSAT Constellation",Satellite,False,"Maxar Technologies",1425,3141.59,SSO,geocentric,sun-synchronous
+5eb0e4ccb6c3bb0006eeb23b,COSMIC-2,Satellite,False,"National Space Organization",1668,3677.3,LEO,geocentric,low-earth
+5eb0e4ccb6c3bb0006eeb23c,GPIM,Satellite,False,"Ball Aerospace & Technologies Corp",180,396,LEO,geocentric,low-earth

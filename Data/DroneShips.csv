@@ -1,0 +1,16 @@
+ship_id,home_port,name,type,roles,activity,mass_kg,mass_lb
+5ea6ed2d080df4000697c901,"Port of Los Angeles","American Champion",Tug,"Support Ship",False,266712,588000
+5ea6ed2d080df4000697c907,"Port Canaveral","GO Ms Chief","High Speed Craft","Fairing Recovery",True,449964,992000
+5ea6ed2d080df4000697c909,"Port Canaveral","GO Navigator",Cargo,"Support Ship",True,451778,996000
+5ea6ed2e080df4000697c905,"Port of Los Angeles","Betty R Gambarella",Tug,"ASDS Tug",False,202302,446000
+5ea6ed2e080df4000697c906,"Port Canaveral","Elsbeth III",Tug,"ASDS Tug",False,273063,602000
+5ea6ed2e080df4000697c908,"Port Canaveral","GO Ms Tree","High Speed Craft","Fairing Recovery",True,449964,992000
+5ea6ed2e080df4000697c90a,"Port Canaveral","GO Pursuit",Cargo,"Support Ship",False,502999,1108920
+5ea6ed2f080df4000697c90c,"Port Canaveral","GO Searcher",Cargo,"Support Ship",True,450870,994000
+5ea6ed2f080df4000697c90d,"Port Canaveral",HAWK,Tug,"ASDS Tug",False,508023,1120000
+5ea6ed2f080df4000697c90e,"Fort Lauderdale",Hollywood,Tug,"ASDS Tug",True,320236,706000
+5ea6ed30080df4000697c912,"Port of Los Angeles","NRC Quest",Cargo,"Support Ship",True,440892,972000
+5ea6ed30080df4000697c914,"Port of Los Angeles","Pacific Freeedom",Tug,"ASDS Tug",True,89811,198000
+5ea6ed30080df4000697c915,"Port of Los Angeles","Pacific Warrior",Tug,"ASDS Tug",False,351080,774000
+5ea6ed30080df4000697c916,"Port Canaveral",RACHEL,Tug,"ASDS Tug",False,312072,688000
+5ee68c683c228f36bd5809b5,"Port Canaveral","Finn Falgout",Tug,"Support Ship",True,843682,1860000
